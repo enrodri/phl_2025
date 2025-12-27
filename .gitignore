@@ -1,0 +1,10 @@
+# Python virtual environment
+venv_phl/
+.venv_phl/
+env_phl/
+bin/
+lib/
+
+# Python cache
+__pycache__/
+*.py[cod]
