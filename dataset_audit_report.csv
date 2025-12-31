@@ -1,6 +1,4 @@
 Column,Inferred dtype,Null Count,Sample Values
-ID,int64,0,"[152, 151, 150]"
-DoB,object,0,"['18-Sep-94', '30-Nov-04', '14-Sep-51']"
 Age,int64,0,"[30, 20, 73]"
 Gender,object,0,"['Male', 'Female']"
 Pre-procedure diagnosis,object,0,"['Bicuspid aortic valve, Secundum atrial septal defect', 'Secundum atrial septal defect', 'Left atrium thrombus, Moderate tricuspid regurgitation, Severe mitral stenosis']"
@@ -9,8 +7,6 @@ Year(s) since procedure,float64,106,"[1.0, 8.0, 2.0]"
 Medications,object,13,"['Tadalafil 20 mg QD | Metoprolol 50 mg QD | Spironolacone 25 mg QD', 'Aspirin 100 mg QD', 'Irbesartan 159 mg QD | Carvedilol 6.25 mg QD | Warfarin 5 mg QD']"
 SBP R,int64,0,"[98, 118, 144]"
 DBP R,int64,0,"[63, 68, 93]"
-SBP L,int64,0,"[99, 112, 135]"
-DBP L,int64,0,"[66, 63, 87]"
 Heart rate,int64,0,"[67, 58, 63]"
 OSat,float64,1,"[97.0, 99.0, 89.0]"
 Weight,float64,3,"[72.0, 64.0, 96.0]"
@@ -22,47 +18,9 @@ LVIDs,float64,122,"[2.5, 3.9, 5.1]"
 Aortic root,float64,126,"[3.3, 3.5, 2.3]"
 Left atrium measure,float64,135,"[6.4, 2.3, 6.7]"
 Left atrium,object,129,"['Huge', 'Severely enlarged', 'Moderately enlarged']"
-LVEF (%),object,63,"['60', '68', '55']"
 LVEF (categorical),object,0,"['Normal', 'Borderline', 'Moderately reduced']"
-RV size,object,126,"['Moderately enlarged', 'Mildly enlarged', 'Severely enlarged']"
-RV function,object,145,"['Severely reduced', 'Moderately reduced', 'Mildly reduced']"
-IVC,float64,151,[3.0]
-RA/Pres,object,147,"['Moderately enlarged', 'Severely enlarged', 'Dilated']"
-LV contraction,object,150,"['Severely reduced', '47% EF (linear)']"
-LV affected segment,float64,152,[]
-LVH,object,144,"['Moderate', 'Mild', 'Significant']"
-E/A,float64,152,[]
-Septum e',float64,152,[]
-Lateral e',float64,152,[]
-E/e',float64,152,[]
-Aortic structure,object,110,"['Bicuspid aortic valve', 'Aortic valve sclerosis', 'Moderate to severe aortic regurgitation']"
-LVOT diameter,float64,143,"[1.8, 2.0, 2.2]"
 AO V1 max,float64,140,"[3.2, 4.5, 1.7]"
 AO V2 max,float64,126,"[5.7, 3.0, 4.5]"
-PG,float64,129,"[133.0, 42.0, 9.1]"
-MG,float64,115,"[96.0, 30.0, 61.0]"
-DI,float64,148,"[0.24, 0.14, 0.15]"
-AVA,float64,148,"[0.6, 0.75, 0.4]"
-Aortic regurgitation PHT,float64,146,"[540.0, 354.0, 568.0]"
-AI gradient,float64,152,[]
-Mitral valve structure,object,126,"['Severe mitral stenosis', 'Severe mitral regurgitation', 'Mild to moderate mitral stenosis']"
-MR Vmax,float64,145,"[3.2, 6.6, 1.7]"
-MR gradient,float64,146,"[4.0, 5.0, 2.0]"
-MS PHT,float64,132,"[417.0, 348.0, 250.0]"
-PHT area,float64,127,"[0.9, 0.5, 0.6]"
-MSA planimetry,float64,141,"[1.6, 1.2, 0.5]"
 MS MG (mmHg),float64,117,"[12.0, 30.0, 14.0]"
 TR Vmax,float64,126,"[61.0, 3.5, 2.6]"
-TR PG,float64,142,"[50.0, 25.0, 47.0]"
-TR Grading,object,147,"['Moderate', 'Moderate-severe', 'Mild']"
 RVSP,object,101,"['40', '72', '30']"
-PV V1,float64,152,[]
-PV V2,float64,150,"[3.0, 3.1]"
-PS Max G,float64,152,[]
-PS Grading,object,151,['Moderate']
-PS location,object,151,['Moderately thickened']
-VSD location,object,147,['Perimembranous']
-VSD shunting,object,149,"['Left to right', 'Bidirectional', 'Eisenmenger’s']"
-ASD size,object,139,"['14', '22', 'Large']"
-ASD shunting,object,147,"['Bidirectional', 'Left to right', '25']"
-Discharged?,object,0,"['No', 'Yes']"
