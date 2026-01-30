@@ -3,10 +3,10 @@
 
 This project documents the development of the **Medication Burden Index (MBI)**, a weighted clinical metric designed to predict hemodynamic severity and optimize surgical triage in high-volume medical missions.
 
-## 🚀 The Core Innovation: The MBI
+## 🌟 The Core Innovation: The MBI
 The MBI transforms fragmented medication lists into a single, actionable score that serves as a proxy for structural heart disease severity. By calculating the ratio of **Total Daily Dose (TDD)** against **Maximum Clinical Doses**, the model identifies high-complexity candidates before they reach the echocardiography suite.
 
-### 🧪 Mathematical Framework
+### 💊 Mathematical Framework
 $$MBI = \sum \left( \text{Class Weight} \times \frac{\text{Total Daily Dose}}{\text{Maximum Clinical Dose}} \right)$$
 
 ---
