@@ -48,5 +48,5 @@ In clinical "sprints," normal findings are often left blank (Missing Not At Rand
 
 ---
 **Author:** Enyel A. Rodríguez G.  
+**Context:** Project Health for Leon | León, Nicaragua 2025.
 **Project:** Using the Medication Burden Index (MBI) to Triage High-Complexity Surgical Candidates.
-**Context:** Project Health for Leon | León, Nicaragua 2025
