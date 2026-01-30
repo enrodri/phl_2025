@@ -47,13 +47,6 @@ In clinical "sprints," normal findings are often left blank (Missing Not At Rand
 * **Hemodynamic Correlation:** MBI scores effectively map the "Complexity Floor" where surgical benefit is maximized.
 
 ---
-
-## 📂 Repository Structure
-* `/assets`: ROC curves and Hemodynamic mapping visualizations.
-* `_data`: Clinical mapping dictionaries (Severity & Max Dose).
-* `phl_2025.md`: Full clinical analysis and cohort phenotyping.
-
----
 **Author:** Enyel A. Rodríguez G.  
-**Project:** MBI Capstone - Master in Business Intelligence  
-**Context:** Cardiovascular Mission | León, Nicaragua 2025
+**Project:** Quantifying Clinical Gaps in Valvular Heart Disease: Using the Medication Burden Index (MBI) to Triage High-Complexity Surgical Candidates.
+**Context:** Project Health for Leon | León, Nicaragua 2025
