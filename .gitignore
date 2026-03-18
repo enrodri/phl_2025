@@ -8,3 +8,5 @@ lib/
 # Python cache
 __pycache__/
 *.py[cod]
+
+mbi_paper.ipynb
