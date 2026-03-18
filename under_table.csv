@@ -1,0 +1,22 @@
+ID,Approach,MBI_Zone,Pre-procedure diagnosis,Post-procedure diagnosis,Medications,RVSP_Imputed,LVEF_Score,MBI,MBI_Residual
+147,Native,Zone 1 (n=113),"Moderate pulmonary regurgitation, Persistent left-sided superior vena cava, Severe pulmonary hypertension, Severe tricuspid regurgitation",,,31.2,60.0,0.0,-4.082737781479365
+82,Native,Zone 1 (n=113),"Mitral valve prolapse, Severe mitral regurgitation",,Carvedilol 6.25 mg QD,20.8,60.0,0.25,-3.7271985312953726
+128,Native,Zone 1 (n=113),"Moderate aortic regurgitation, Severe mitral stenosis, Severe pulmonary hypertension",,Warfarin 2.5 mg QD | Carvedilol 6.25 mg BID,65.0,40.0,1.0,-3.5233583404910647
+44,Native,Zone 1 (n=113),Severe mitral regurgitation,Surgical mitral valvuloplasty,Aspirin 100 mg QD | Losartan 12.5 mg QD,23.3,60.0,1.25,-2.7271985312953726
+38,Percutaneous,Zone 1 (n=113),Severe mitral stenosis,Mitral valve percutaneous valvuloplasty,Carvedilol 25 mg QD | Warfarin 2.5 mg QD ,20.9,60.0,1.5,-2.5562037037037078
+49,Native,Zone 1 (n=113),Critical aortic stenosis,,,27.3,60.0,0.0,-2.555483147080887
+16,Native,Zone 1 (n=113),"Calcific aortic stenosis, Severe to critical aortic stenosis",,,15.6,60.0,0.0,-2.555483147080887
+91,Percutaneous,Zone 1 (n=113),Severe mitral stenosis,"Mitral valve percutaneous valvuloplasty, Moderate mitral stenosis",Aspirin 100 mg QD | Carvedilol 3.125 mg BID | Spironolactone 12.5 mg ,24.3,60.0,1.75,-2.3062037037037078
+75,Native,Zone 1 (n=113),Tricuspid valve atresia,"Glenn shunt procedure, Tricuspid valve atresia",,24.4,40.0,0.0,-2.2702094131146056
+77,Native,Zone 1 (n=113),Secundum atrial septal defect,,,33.4,60.0,0.0,-2.2702094131146056
+130,Native,Zone 1 (n=113),Mild intracavitary right ventricle muscle bundle with mild obstruction,,,14.1,60.0,0.0,-2.2702094131146056
+148,Native,Zone 1 (n=113),Mild intracavitary right ventricle muscle bundle with mild obstruction,,,25.3,60.0,0.0,-2.2702094131146056
+83,Native,Zone 1 (n=113),Secundum atrial septal defect,,,40.0,60.0,0.0,-2.2702094131146056
+41,Native,Zone 1 (n=113),Moderate to severe aortic stenosis,,Carvedilol 6.25 mg QD,29.8,60.0,0.25,-2.2647297565142757
+35,Native,Zone 1 (n=113),"Atrial fibrillation, Stunned myocardium from rapid ventricular response",,Losartan 50 mg QD | Bisoprolol 5 mg QD,32.2,40.0,2.0,-2.151193295742381
+135,Native,Zone 1 (n=113),Severe aortic regurgitation,,Ranolazine 500 mg QD | Olmesartan 20 mg QD,25.8,60.0,0.5,-2.132455210868475
+115,Native,Zone 1 (n=113),Severe mitral stenosis,,Carvedilol 6.25 mg QD | Enalapril 10 mg QD,30.0,60.0,0.75,-2.08304814792721
+111,Native,Zone 1 (n=113),"Moderate mitral regurgitation, Moderate to severe aortic regurgitation, Severe mitral stenosis",,Carvedilol 6.25 mg BID | Furosemide 40 mg QD | Digoxin 0.25 mg QD | Enalapril 5 mg QD,22.1,25.0,3.25,-2.072150179332393
+14,Percutaneous,Zone 1 (n=113),Severe mitral stenosis,Mitral valve percutaneous valvuloplasty,Warfarin 5 mg QD | Atenolol 50 mg QD ,45.0,60.0,2.0,-2.0562037037037078
+63,Native,Zone 1 (n=113),Severe aortic stenosis,,Carvedilol 6.25 mg BID,27.6,60.0,0.5,-2.0147297565142757
+107,Native,Zone 1 (n=113),Moderate aortic regurgitation,,Carvedilol 6.25 mg BID,25.3,60.0,0.5,-2.011706611617185
